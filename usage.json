@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/analytix-tiers",
+  "packageVersion": "1.0.1",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/analytix-tiers",
+  "usageRepository": "https://github.com/x12i-sdk/analytix-tiers",
+  "sourceRepository": "https://github.com/x12i/analytix",
+  "sourceCommit": "cf2ed708652df6f853af877340acc385d17c76f2",
+  "sourcePackageDirectory": "packages/analytix-tiers",
+  "example": {
+    "title": "Compile dependency levels and reuse materialized local outputs",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:33:12.353982+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "e08d05c08a2619ab2275fdc21f7761c65ed8790dffdf07f93cf1d1f1cf2bd9ce",
+    "manifestSha256": "d92e0f06fc54dcc08ad90cd4390ec23d97e3424ec3afd1785eb27f7508bd90d3"
+  },
+  "validationFiles": {
+    "src/index.mjs": "e08d05c08a2619ab2275fdc21f7761c65ed8790dffdf07f93cf1d1f1cf2bd9ce"
+  }
+}
